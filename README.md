@@ -1,3 +1,3 @@
 # GeekSterAssignment
 
-#t's Pre-Course Assignment
+#It's Pre-Course Assignment
